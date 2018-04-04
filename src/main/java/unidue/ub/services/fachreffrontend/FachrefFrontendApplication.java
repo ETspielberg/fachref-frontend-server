@@ -29,8 +29,9 @@ public class FachrefFrontendApplication {
 		protected void configure(HttpSecurity http) throws Exception {
 			http.httpBasic()
 					.and()
-					.authorizeRequests().anyRequest().authenticated();
-			http.csrf().disable();
+					.authorizeRequests().anyRequest().authenticated()
+			.and()
+					.csrf().disable();
 		}
 	}
 }
