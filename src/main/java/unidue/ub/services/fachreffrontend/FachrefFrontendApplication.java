@@ -25,7 +25,7 @@ public class FachrefFrontendApplication {
 		protected void configure(HttpSecurity http) throws Exception {
 			http.httpBasic()
 					.and()
-					.authorizeRequests().anyRequest().authenticated()
+					.authorizeRequests().anyRequest().hasRole("FACHREFERENT")
 					.and()
 					.csrf().csrfTokenRepository(CookieCsrfTokenRepository.withHttpOnlyFalse());
 		}
