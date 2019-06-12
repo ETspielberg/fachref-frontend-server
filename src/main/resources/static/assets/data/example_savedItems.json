@@ -1,0 +1,70 @@
+[
+  {
+    "itemId": "testId",
+    "barcode": "ED0155235486",
+    "shelfmark": "ABC1234(5)+6",
+    "comment": "",
+    "collection": "E31",
+    "material": "BOOK",
+    "itemlist": null,
+    "_links": {
+      "self": {
+        "href": "http://localhost:11888/savedItem/9e1ca079-7f06-4f1f-a23e-b17ae571a981"
+      },
+      "savedItem": {
+        "href": "http://localhost:11888/savedItem/9e1ca079-7f06-4f1f-a23e-b17ae571a981"
+      }
+    }
+  },
+  {
+    "itemId": "testId",
+    "barcode": "ED0155235486",
+    "shelfmark": "ABC1234(5)+6",
+    "comment": "",
+    "collection": "E31",
+    "material": "BOOK",
+    "itemlist": null,
+    "_links": {
+      "self": {
+        "href": "http://localhost:11888/savedItem/6b6cf2cd-ffdb-4191-bdfa-c719c978938f"
+      },
+      "savedItem": {
+        "href": "http://localhost:11888/savedItem/6b6cf2cd-ffdb-4191-bdfa-c719c978938f"
+      }
+    }
+  },
+  {
+    "itemId": "testId",
+    "barcode": "ED0155235486",
+    "shelfmark": "ABC1234(5)+6",
+    "comment": "",
+    "collection": "E31",
+    "material": "BOOK",
+    "itemlist": null,
+    "_links": {
+      "self": {
+        "href": "http://localhost:11888/savedItem/5c4f300c-8295-4773-ae45-3add7544b01f"
+      },
+      "savedItem": {
+        "href": "http://localhost:11888/savedItem/5c4f300c-8295-4773-ae45-3add7544b01f"
+      }
+    }
+  },
+  {
+    "itemId": "testId",
+    "barcode": "ED0155235486",
+    "shelfmark": "ABC1234(5)+6",
+    "comment": "",
+    "collection": "E31",
+    "material": "BOOK",
+    "itemlist": "7bac6774-1d02-4879-b307-5ab5a85e99ea",
+    "_links": {
+      "self": {
+        "href": "http://localhost:11888/savedItem/b8c7d2b8-dc82-44e6-a76c-3eae76363771"
+      },
+      "savedItem": {
+        "href": "http://localhost:11888/savedItem/b8c7d2b8-dc82-44e6-a76c-3eae76363771"
+      }
+    }
+  }
+]

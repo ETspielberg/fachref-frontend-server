@@ -1,0 +1,44 @@
+[
+  {
+    "id": "aslkfjlkdnfldjknf",
+    "name": "test1",
+    "description": "Erster Test",
+    "lastChange": "2019-02-14T09:51:24.787",
+    "_links": {
+      "self": {
+        "href": "http://localhost:11888/itemlist/7bac6774-1d02-4879-b307-5ab5a85e99ea"
+      },
+      "itemlist": {
+        "href": "http://localhost:11888/itemlist/7bac6774-1d02-4879-b307-5ab5a85e99ea"
+      }
+    }
+  },
+  {
+    "id": "kdfldkfjdlkfnlk",
+    "name": "Eine List mit einem ungewöhnlich langem Namen um zu testen, ob und wie ein Zeilenumbruch funktioniert",
+    "description": "Zweiter Test",
+    "lastChange": "2019-01-14T09:51:24.787",
+    "_links": {
+      "self": {
+        "href": "http://localhost:11888/itemlist/1de9dccb-6d8e-4a15-b5a0-0152e72b4791"
+      },
+      "itemlist": {
+        "href": "http://localhost:11888/itemlist/1de9dccb-6d8e-4a15-b5a0-0152e72b4791"
+      }
+    }
+  },
+  {
+    "id": "djfnd-jklfnjndjkeu",
+    "name": "test3",
+    "description": "Dritter Test",
+    "lastChange": "2019-03-14T09:51:24.787",
+    "_links": {
+      "self": {
+        "href": "http://localhost:11888/itemlist/567f7276-38cc-4775-9333-3e439877dd99"
+      },
+      "itemlist": {
+        "href": "http://localhost:11888/itemlist/567f7276-38cc-4775-9333-3e439877dd99"
+      }
+    }
+  }
+]
