@@ -1,4 +1,4 @@
-package unidue.ub.services.fachreffrontend;
+package org.unidue.ub.libintel.fachreffrontend;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

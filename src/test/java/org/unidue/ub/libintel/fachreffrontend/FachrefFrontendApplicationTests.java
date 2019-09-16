@@ -1,4 +1,4 @@
-package unidue.ub.services.fachreffrontend;
+package org.unidue.ub.libintel.fachreffrontend;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
